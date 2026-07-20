@@ -1,4 +1,63 @@
-# Advanced-Encryption-for-Quantum-Safe-Video-Transmission
-Developed a secure web application for encrypted video transmission and watermark embedding, designed to withstand quantum-era security threats. Integrated classical cryptography with Shamir’s Secret Sharing for secure key splitting and storage.
+# Advanced Encryption for Quantum-Safe Video Transmission
 
-Boisss i made a mess witho files do one thing the folder named assets,css,decrpted,fonts,images,js comes under one folder called as static make that static folder and put all these files inside that file ... sorry ITs my Bad
+A Python-based cybersecurity project that demonstrates secure video transmission using quantum-resistant cryptographic concepts. The project focuses on protecting video data through encryption techniques designed to strengthen confidentiality and secure communication.
+
+## Features
+
+- Secure video encryption
+- Quantum-safe security concepts
+- Encryption and decryption workflow
+- File protection
+- Modular Python implementation
+
+## Technologies Used
+
+- Python
+- Cryptography
+- OpenCV
+- Flask
+- File Handling
+
+## Project Structure
+
+```
+Advanced-Encryption-for-Quantum-Safe-Video-Transmission/
+├── app.py
+├── requirements.txt
+├── setup.ps1
+├── .gitignore
+├── LICENSE
+└── README.md
+```
+
+## Installation
+
+```bash
+git clone https://github.com/yourusername/Advanced-Encryption-for-Quantum-Safe-Video-Transmission.git
+cd Advanced-Encryption-for-Quantum-Safe-Video-Transmission
+pip install -r requirements.txt
+python app.py
+```
+
+## Future Improvements
+
+- Hybrid post-quantum cryptography
+- Authentication and user management
+- Secure cloud storage
+- Performance optimization
+- Audit logging
+- Docker deployment
+
+## Cybersecurity Concepts
+
+- Data Confidentiality
+- Secure File Transmission
+- Encryption & Decryption
+- Quantum-safe Cryptography
+- Secure Key Management
+
+## Author
+
+**Eshan Sharma**
+
+SOC Analyst | B.Tech in Cybersecurity
